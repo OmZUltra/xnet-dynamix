@@ -19,7 +19,7 @@ body{
 }
 
 #main_banner {
-    background-image: url('/media/header-banner.jpg');
+    background-image: url('../media/header-banner.jpg');
     background-position: center;
     height: 90dvh;
     background-size: cover;
