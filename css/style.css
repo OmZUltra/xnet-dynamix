@@ -525,8 +525,12 @@ dialog::backdrop {
     border-radius: 10px;
 }
 
+#address_map {
+    width: 100%;
+}
+
 .map_container {
-    width: 100vw;
+    width: 100%;
 }
 
 .map_container iframe {
